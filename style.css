@@ -160,6 +160,18 @@ a:hover
   min-height: 100vh;
 }
 
+#sticky-background
+{
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  z-index: 0;
+}
+
+#projects-background
+{
+  background-color: #F5F5F5;
+}
 
 
 .img-responsive
